@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <title>making it worse</title>
+    <style>
+      html, body { 
+        height: 100%; 
+        margin: 0; 
+        padding: 0; 
+        overflow: hidden; 
+        background: #000; 
+        width: 100vw;
+        height: 100vh;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+      }
+      #game-container { 
+        width: 100vw; 
+        height: 100vh; 
+        position: relative; 
+        z-index: 100; 
+        margin: 0; 
+        padding: 0; 
+        border: none; 
+        outline: none; 
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+      }
+      #game-container canvas { 
+        background: transparent !important; 
+        margin: 0 !important; 
+        padding: 0 !important; 
+        border: none !important; 
+        outline: none !important; 
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .dg.main { z-index: 999999 !important; }
+      
+      /* Remove any Phaser default styling */
+      canvas { 
+        margin: 0 !important; 
+        padding: 0 !important; 
+        border: none !important; 
+        outline: none !important; 
+      }
+      
+      /* Ensure no scrollbars or overflow */
+      * {
+        box-sizing: border-box;
+      }
+      
+      /* Prevent zooming and touch gestures on mobile */
+      html, body {
+        touch-action: none;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+      }
+      
+      /* Prevent double-tap zoom */
+      * {
+        touch-action: manipulation;
+      }
+      
+      /* Prevent pinch zoom */
+      #game-container {
+        touch-action: none;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        user-select: none;
+      }
+      
+      /* Prevent text selection */
+      canvas {
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        touch-action: none;
+      }
+    </style>
+    <script>
+        // Disable right-click context menu globally
+        document.addEventListener('contextmenu', function(event) {
+            event.preventDefault();
+            event.stopPropagation();
+            return false;
+        });
+        
+        // Disable right mouse button clicks
+        document.addEventListener('mousedown', function(event) {
+            if (event.button === 2) { // Right mouse button
+                event.preventDefault();
+                event.stopPropagation();
+                return false;
+            }
+        });
+        
+        // Disable right mouse button on mouseup as well
+        document.addEventListener('mouseup', function(event) {
+            if (event.button === 2) { // Right mouse button
+                event.preventDefault();
+                event.stopPropagation();
+                return false;
+            }
+        });
+    </script>
+  <script type="module" crossorigin src="/making-it-worse-deploy/assets/index-d1tZtPxE.js"></script>
+</head>
+<body>
+    <div id="game-container"></div>
+    <script>
+      // Force canvas to fill entire viewport
+      function ensureFullCoverage() {
+        const container = document.getElementById('game-container');
+        const canvas = container?.querySelector('canvas');
+        
+        if (container && canvas) {
+          // Force container to exact viewport size
+          container.style.width = '100vw';
+          container.style.height = '100vh';
+          container.style.margin = '0';
+          container.style.padding = '0';
+          container.style.border = 'none';
+          container.style.outline = 'none';
+          container.style.position = 'absolute';
+          container.style.top = '0';
+          container.style.left = '0';
+          container.style.transform = 'translateY(0)';
+          
+          // Try negative top margin to eliminate any remaining gap
+          container.style.marginTop = '-1px';
+          
+          // Force canvas to fill container exactly
+          canvas.style.width = '100%';
+          canvas.style.height = '100%';
+          canvas.style.margin = '0';
+          canvas.style.padding = '0';
+          canvas.style.border = 'none';
+          canvas.style.outline = 'none';
+          canvas.style.position = 'absolute';
+          canvas.style.top = '0';
+          canvas.style.left = '0';
+          
+          // Debug: Check if there are any gaps
+          const containerRect = container.getBoundingClientRect();
+          const canvasRect = canvas.getBoundingClientRect();
+          console.log('Container position:', containerRect);
+          console.log('Canvas position:', canvasRect);
+          console.log('Window size:', window.innerWidth, 'x', window.innerHeight);
+          
+          // Check if there's a gap at the top
+          if (containerRect.top > 0 || canvasRect.top > 0) {
+            console.log('Gap detected at top!');
+            console.log('Container top:', containerRect.top);
+            console.log('Canvas top:', canvasRect.top);
+          }
+          
+          // Check for any other elements that might be causing gaps
+          const allElements = document.querySelectorAll('*');
+          for (let element of allElements) {
+            const rect = element.getBoundingClientRect();
+            if (rect.top === 0 && rect.height > 0 && rect.width > 0) {
+              console.log('Element at top:', element.tagName, element.className, rect);
+            }
+          }
+        }
+      }
+      
+      // Run immediately and after a short delay
+      ensureFullCoverage();
+      setTimeout(ensureFullCoverage, 100);
+      setTimeout(ensureFullCoverage, 500);
+      
+      // Also run on window resize
+      window.addEventListener('resize', ensureFullCoverage);
+    </script>
+</body>
+</html> 
