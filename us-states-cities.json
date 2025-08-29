@@ -1,0 +1,4104 @@
+{
+  "New York": [
+    {
+      "name": "New York",
+      "present": true
+    },
+    {
+      "name": "Buffalo",
+      "present": true
+    },
+    {
+      "name": "Rochester",
+      "present": true
+    },
+    {
+      "name": "Yonkers",
+      "present": true
+    },
+    {
+      "name": "Syracuse",
+      "present": true
+    },
+    {
+      "name": "Albany",
+      "present": true
+    },
+    {
+      "name": "New Rochelle",
+      "present": true
+    },
+    {
+      "name": "Mount Vernon",
+      "present": true
+    },
+    {
+      "name": "Schenectady",
+      "present": true
+    },
+    {
+      "name": "Utica",
+      "present": true
+    },
+    {
+      "name": "White Plains",
+      "present": true
+    },
+    {
+      "name": "Hempstead",
+      "present": true
+    },
+    {
+      "name": "Troy",
+      "present": true
+    },
+    {
+      "name": "Niagara Falls",
+      "present": true
+    },
+    {
+      "name": "Binghamton",
+      "present": true
+    },
+    {
+      "name": "Freeport",
+      "present": true
+    },
+    {
+      "name": "Valley Stream",
+      "present": true
+    }
+  ],
+  "California": [
+    {
+      "name": "Los Angeles",
+      "present": true
+    },
+    {
+      "name": "San Diego",
+      "present": true
+    },
+    {
+      "name": "San Jose",
+      "present": true
+    },
+    {
+      "name": "San Francisco",
+      "present": true
+    },
+    {
+      "name": "Fresno",
+      "present": true
+    },
+    {
+      "name": "Sacramento",
+      "present": true
+    },
+    {
+      "name": "Long Beach",
+      "present": true
+    },
+    {
+      "name": "Oakland",
+      "present": true
+    },
+    {
+      "name": "Bakersfield",
+      "present": true
+    },
+    {
+      "name": "Anaheim",
+      "present": true
+    },
+    {
+      "name": "Santa Ana",
+      "present": true
+    },
+    {
+      "name": "Riverside",
+      "present": true
+    },
+    {
+      "name": "Stockton",
+      "present": true
+    },
+    {
+      "name": "Chula Vista",
+      "present": true
+    },
+    {
+      "name": "Irvine",
+      "present": true
+    },
+    {
+      "name": "Fremont",
+      "present": true
+    },
+    {
+      "name": "San Bernardino",
+      "present": true
+    },
+    {
+      "name": "Modesto",
+      "present": true
+    },
+    {
+      "name": "Fontana",
+      "present": true
+    },
+    {
+      "name": "Oxnard",
+      "present": true
+    },
+    {
+      "name": "Moreno Valley",
+      "present": true
+    },
+    {
+      "name": "Huntington Beach",
+      "present": true
+    },
+    {
+      "name": "Glendale",
+      "present": true
+    },
+    {
+      "name": "Santa Clarita",
+      "present": true
+    },
+    {
+      "name": "Garden Grove",
+      "present": true
+    },
+    {
+      "name": "Oceanside",
+      "present": true
+    },
+    {
+      "name": "Rancho Cucamonga",
+      "present": true
+    },
+    {
+      "name": "Santa Rosa",
+      "present": true
+    },
+    {
+      "name": "Ontario",
+      "present": true
+    },
+    {
+      "name": "Lancaster",
+      "present": true
+    },
+    {
+      "name": "Elk Grove",
+      "present": true
+    },
+    {
+      "name": "Corona",
+      "present": true
+    },
+    {
+      "name": "Palmdale",
+      "present": true
+    },
+    {
+      "name": "Salinas",
+      "present": true
+    },
+    {
+      "name": "Pomona",
+      "present": true
+    },
+    {
+      "name": "Hayward",
+      "present": true
+    },
+    {
+      "name": "Escondido",
+      "present": true
+    },
+    {
+      "name": "Torrance",
+      "present": true
+    },
+    {
+      "name": "Sunnyvale",
+      "present": true
+    },
+    {
+      "name": "Orange",
+      "present": true
+    },
+    {
+      "name": "Fullerton",
+      "present": true
+    },
+    {
+      "name": "Pasadena",
+      "present": true
+    },
+    {
+      "name": "Thousand Oaks",
+      "present": true
+    },
+    {
+      "name": "Visalia",
+      "present": true
+    },
+    {
+      "name": "Simi Valley",
+      "present": true
+    },
+    {
+      "name": "Concord",
+      "present": true
+    },
+    {
+      "name": "Roseville",
+      "present": true
+    },
+    {
+      "name": "Victorville",
+      "present": true
+    },
+    {
+      "name": "Santa Clara",
+      "present": true
+    },
+    {
+      "name": "Vallejo",
+      "present": true
+    },
+    {
+      "name": "Berkeley",
+      "present": true
+    },
+    {
+      "name": "El Monte",
+      "present": true
+    },
+    {
+      "name": "Downey",
+      "present": true
+    },
+    {
+      "name": "Costa Mesa",
+      "present": true
+    },
+    {
+      "name": "Inglewood",
+      "present": true
+    },
+    {
+      "name": "Carlsbad",
+      "present": true
+    },
+    {
+      "name": "San Buenaventura (Ventura)",
+      "present": true
+    },
+    {
+      "name": "Fairfield",
+      "present": true
+    },
+    {
+      "name": "West Covina",
+      "present": true
+    },
+    {
+      "name": "Murrieta",
+      "present": true
+    },
+    {
+      "name": "Richmond",
+      "present": true
+    },
+    {
+      "name": "Norwalk",
+      "present": true
+    },
+    {
+      "name": "Antioch",
+      "present": true
+    },
+    {
+      "name": "Temecula",
+      "present": true
+    },
+    {
+      "name": "Burbank",
+      "present": true
+    },
+    {
+      "name": "Daly City",
+      "present": true
+    },
+    {
+      "name": "Rialto",
+      "present": true
+    },
+    {
+      "name": "Santa Maria",
+      "present": true
+    },
+    {
+      "name": "El Cajon",
+      "present": true
+    },
+    {
+      "name": "San Mateo",
+      "present": true
+    },
+    {
+      "name": "Clovis",
+      "present": true
+    },
+    {
+      "name": "Compton",
+      "present": true
+    },
+    {
+      "name": "Jurupa Valley",
+      "present": true
+    },
+    {
+      "name": "Vista",
+      "present": true
+    },
+    {
+      "name": "South Gate",
+      "present": true
+    },
+    {
+      "name": "Mission Viejo",
+      "present": true
+    },
+    {
+      "name": "Vacaville",
+      "present": true
+    },
+    {
+      "name": "Carson",
+      "present": true
+    },
+    {
+      "name": "Hesperia",
+      "present": true
+    },
+    {
+      "name": "Santa Monica",
+      "present": true
+    },
+    {
+      "name": "Westminster",
+      "present": true
+    },
+    {
+      "name": "Redding",
+      "present": true
+    },
+    {
+      "name": "Santa Barbara",
+      "present": true
+    },
+    {
+      "name": "Chico",
+      "present": true
+    },
+    {
+      "name": "Newport Beach",
+      "present": true
+    },
+    {
+      "name": "San Leandro",
+      "present": true
+    },
+    {
+      "name": "San Marcos",
+      "present": true
+    },
+    {
+      "name": "Whittier",
+      "present": true
+    },
+    {
+      "name": "Hawthorne",
+      "present": true
+    },
+    {
+      "name": "Citrus Heights",
+      "present": true
+    },
+    {
+      "name": "Tracy",
+      "present": true
+    },
+    {
+      "name": "Alhambra",
+      "present": true
+    },
+    {
+      "name": "Livermore",
+      "present": true
+    },
+    {
+      "name": "Buena Park",
+      "present": true
+    },
+    {
+      "name": "Menifee",
+      "present": true
+    },
+    {
+      "name": "Hemet",
+      "present": true
+    },
+    {
+      "name": "Lakewood",
+      "present": true
+    },
+    {
+      "name": "Merced",
+      "present": true
+    },
+    {
+      "name": "Chino",
+      "present": true
+    },
+    {
+      "name": "Indio",
+      "present": true
+    },
+    {
+      "name": "Redwood City",
+      "present": true
+    },
+    {
+      "name": "Lake Forest",
+      "present": true
+    },
+    {
+      "name": "Napa",
+      "present": true
+    },
+    {
+      "name": "Tustin",
+      "present": true
+    },
+    {
+      "name": "Bellflower",
+      "present": true
+    },
+    {
+      "name": "Mountain View",
+      "present": true
+    },
+    {
+      "name": "Chino Hills",
+      "present": true
+    },
+    {
+      "name": "Baldwin Park",
+      "present": true
+    },
+    {
+      "name": "Alameda",
+      "present": true
+    },
+    {
+      "name": "Upland",
+      "present": true
+    },
+    {
+      "name": "San Ramon",
+      "present": true
+    },
+    {
+      "name": "Folsom",
+      "present": true
+    },
+    {
+      "name": "Pleasanton",
+      "present": true
+    },
+    {
+      "name": "Union City",
+      "present": true
+    },
+    {
+      "name": "Perris",
+      "present": true
+    },
+    {
+      "name": "Manteca",
+      "present": true
+    },
+    {
+      "name": "Lynwood",
+      "present": true
+    },
+    {
+      "name": "Apple Valley",
+      "present": true
+    },
+    {
+      "name": "Redlands",
+      "present": true
+    },
+    {
+      "name": "Turlock",
+      "present": true
+    },
+    {
+      "name": "Milpitas",
+      "present": true
+    },
+    {
+      "name": "Redondo Beach",
+      "present": true
+    },
+    {
+      "name": "Rancho Cordova",
+      "present": true
+    },
+    {
+      "name": "Yorba Linda",
+      "present": true
+    },
+    {
+      "name": "Palo Alto",
+      "present": true
+    },
+    {
+      "name": "Davis",
+      "present": true
+    },
+    {
+      "name": "Camarillo",
+      "present": true
+    },
+    {
+      "name": "Walnut Creek",
+      "present": true
+    },
+    {
+      "name": "Pittsburg",
+      "present": true
+    },
+    {
+      "name": "South San Francisco",
+      "present": true
+    },
+    {
+      "name": "Yuba City",
+      "present": true
+    },
+    {
+      "name": "San Clemente",
+      "present": true
+    },
+    {
+      "name": "Laguna Niguel",
+      "present": true
+    },
+    {
+      "name": "Pico Rivera",
+      "present": true
+    },
+    {
+      "name": "Montebello",
+      "present": true
+    },
+    {
+      "name": "Lodi",
+      "present": true
+    },
+    {
+      "name": "Madera",
+      "present": true
+    },
+    {
+      "name": "Santa Cruz",
+      "present": true
+    },
+    {
+      "name": "La Habra",
+      "present": true
+    },
+    {
+      "name": "Encinitas",
+      "present": true
+    },
+    {
+      "name": "Monterey Park",
+      "present": true
+    },
+    {
+      "name": "Tulare",
+      "present": true
+    },
+    {
+      "name": "Cupertino",
+      "present": true
+    },
+    {
+      "name": "Gardena",
+      "present": true
+    },
+    {
+      "name": "National City",
+      "present": true
+    },
+    {
+      "name": "Rocklin",
+      "present": true
+    },
+    {
+      "name": "Petaluma",
+      "present": true
+    },
+    {
+      "name": "Huntington Park",
+      "present": true
+    },
+    {
+      "name": "San Rafael",
+      "present": true
+    },
+    {
+      "name": "La Mesa",
+      "present": true
+    },
+    {
+      "name": "Arcadia",
+      "present": true
+    },
+    {
+      "name": "Fountain Valley",
+      "present": true
+    },
+    {
+      "name": "Diamond Bar",
+      "present": true
+    },
+    {
+      "name": "Woodland",
+      "present": true
+    },
+    {
+      "name": "Santee",
+      "present": true
+    },
+    {
+      "name": "Lake Elsinore",
+      "present": true
+    },
+    {
+      "name": "Porterville",
+      "present": true
+    },
+    {
+      "name": "Paramount",
+      "present": true
+    },
+    {
+      "name": "Eastvale",
+      "present": true
+    },
+    {
+      "name": "Rosemead",
+      "present": true
+    },
+    {
+      "name": "Hanford",
+      "present": true
+    },
+    {
+      "name": "Highland",
+      "present": true
+    },
+    {
+      "name": "Brentwood",
+      "present": true
+    },
+    {
+      "name": "Novato",
+      "present": true
+    },
+    {
+      "name": "Colton",
+      "present": true
+    },
+    {
+      "name": "Cathedral City",
+      "present": true
+    },
+    {
+      "name": "Delano",
+      "present": true
+    },
+    {
+      "name": "Yucaipa",
+      "present": true
+    },
+    {
+      "name": "Watsonville",
+      "present": true
+    },
+    {
+      "name": "Placentia",
+      "present": true
+    },
+    {
+      "name": "Glendora",
+      "present": true
+    },
+    {
+      "name": "Gilroy",
+      "present": true
+    },
+    {
+      "name": "Palm Desert",
+      "present": true
+    },
+    {
+      "name": "Cerritos",
+      "present": true
+    },
+    {
+      "name": "West Sacramento",
+      "present": true
+    },
+    {
+      "name": "Aliso Viejo",
+      "present": true
+    },
+    {
+      "name": "Poway",
+      "present": true
+    },
+    {
+      "name": "La Mirada",
+      "present": true
+    },
+    {
+      "name": "Rancho Santa Margarita",
+      "present": true
+    },
+    {
+      "name": "Cypress",
+      "present": true
+    },
+    {
+      "name": "Dublin",
+      "present": true
+    },
+    {
+      "name": "Covina",
+      "present": true
+    },
+    {
+      "name": "Azusa",
+      "present": true
+    },
+    {
+      "name": "Palm Springs",
+      "present": true
+    },
+    {
+      "name": "San Luis Obispo",
+      "present": true
+    },
+    {
+      "name": "Ceres",
+      "present": true
+    },
+    {
+      "name": "San Jacinto",
+      "present": true
+    },
+    {
+      "name": "Lincoln",
+      "present": true
+    },
+    {
+      "name": "Newark",
+      "present": true
+    },
+    {
+      "name": "Lompoc",
+      "present": true
+    },
+    {
+      "name": "El Centro",
+      "present": true
+    },
+    {
+      "name": "Danville",
+      "present": true
+    },
+    {
+      "name": "Bell Gardens",
+      "present": true
+    },
+    {
+      "name": "Coachella",
+      "present": true
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "present": true
+    },
+    {
+      "name": "San Bruno",
+      "present": true
+    },
+    {
+      "name": "Rohnert Park",
+      "present": true
+    },
+    {
+      "name": "Brea",
+      "present": true
+    },
+    {
+      "name": "La Puente",
+      "present": true
+    },
+    {
+      "name": "Campbell",
+      "present": true
+    },
+    {
+      "name": "San Gabriel",
+      "present": true
+    },
+    {
+      "name": "Beaumont",
+      "present": true
+    },
+    {
+      "name": "Morgan Hill",
+      "present": true
+    },
+    {
+      "name": "Culver City",
+      "present": true
+    },
+    {
+      "name": "Calexico",
+      "present": true
+    },
+    {
+      "name": "Stanton",
+      "present": true
+    },
+    {
+      "name": "La Quinta",
+      "present": true
+    },
+    {
+      "name": "Pacifica",
+      "present": true
+    },
+    {
+      "name": "Montclair",
+      "present": true
+    },
+    {
+      "name": "Oakley",
+      "present": true
+    },
+    {
+      "name": "Monrovia",
+      "present": true
+    },
+    {
+      "name": "Los Banos",
+      "present": true
+    },
+    {
+      "name": "Martinez",
+      "present": true
+    }
+  ],
+  "Illinois": [
+    {
+      "name": "Chicago",
+      "present": true
+    },
+    {
+      "name": "Aurora",
+      "present": true
+    },
+    {
+      "name": "Rockford",
+      "present": true
+    },
+    {
+      "name": "Joliet",
+      "present": true
+    },
+    {
+      "name": "Naperville",
+      "present": true
+    },
+    {
+      "name": "Springfield",
+      "present": true
+    },
+    {
+      "name": "Peoria",
+      "present": true
+    },
+    {
+      "name": "Elgin",
+      "present": true
+    },
+    {
+      "name": "Waukegan",
+      "present": true
+    },
+    {
+      "name": "Cicero",
+      "present": true
+    },
+    {
+      "name": "Champaign",
+      "present": true
+    },
+    {
+      "name": "Bloomington",
+      "present": true
+    },
+    {
+      "name": "Arlington Heights",
+      "present": true
+    },
+    {
+      "name": "Evanston",
+      "present": true
+    },
+    {
+      "name": "Decatur",
+      "present": true
+    },
+    {
+      "name": "Schaumburg",
+      "present": true
+    },
+    {
+      "name": "Bolingbrook",
+      "present": true
+    },
+    {
+      "name": "Palatine",
+      "present": true
+    },
+    {
+      "name": "Skokie",
+      "present": true
+    },
+    {
+      "name": "Des Plaines",
+      "present": true
+    },
+    {
+      "name": "Orland Park",
+      "present": true
+    },
+    {
+      "name": "Tinley Park",
+      "present": true
+    },
+    {
+      "name": "Oak Lawn",
+      "present": true
+    },
+    {
+      "name": "Berwyn",
+      "present": true
+    },
+    {
+      "name": "Mount Prospect",
+      "present": true
+    },
+    {
+      "name": "Normal",
+      "present": true
+    },
+    {
+      "name": "Wheaton",
+      "present": true
+    },
+    {
+      "name": "Hoffman Estates",
+      "present": true
+    },
+    {
+      "name": "Oak Park",
+      "present": true
+    },
+    {
+      "name": "Downers Grove",
+      "present": true
+    },
+    {
+      "name": "Elmhurst",
+      "present": true
+    },
+    {
+      "name": "Glenview",
+      "present": true
+    },
+    {
+      "name": "DeKalb",
+      "present": true
+    },
+    {
+      "name": "Lombard",
+      "present": true
+    },
+    {
+      "name": "Belleville",
+      "present": true
+    },
+    {
+      "name": "Moline",
+      "present": true
+    },
+    {
+      "name": "Buffalo Grove",
+      "present": true
+    },
+    {
+      "name": "Bartlett",
+      "present": true
+    },
+    {
+      "name": "Urbana",
+      "present": true
+    },
+    {
+      "name": "Quincy",
+      "present": true
+    },
+    {
+      "name": "Crystal Lake",
+      "present": true
+    },
+    {
+      "name": "Plainfield",
+      "present": true
+    },
+    {
+      "name": "Streamwood",
+      "present": true
+    },
+    {
+      "name": "Carol Stream",
+      "present": true
+    },
+    {
+      "name": "Romeoville",
+      "present": true
+    },
+    {
+      "name": "Rock Island",
+      "present": true
+    },
+    {
+      "name": "Hanover Park",
+      "present": true
+    },
+    {
+      "name": "Carpentersville",
+      "present": true
+    },
+    {
+      "name": "Wheeling",
+      "present": true
+    },
+    {
+      "name": "Park Ridge",
+      "present": true
+    },
+    {
+      "name": "Addison",
+      "present": true
+    },
+    {
+      "name": "Calumet City",
+      "present": true
+    }
+  ],
+  "Texas": [
+    {
+      "name": "Houston",
+      "present": true
+    },
+    {
+      "name": "San Antonio",
+      "present": true
+    },
+    {
+      "name": "Dallas",
+      "present": true
+    },
+    {
+      "name": "Austin",
+      "present": true
+    },
+    {
+      "name": "Fort Worth",
+      "present": true
+    },
+    {
+      "name": "El Paso",
+      "present": true
+    },
+    {
+      "name": "Arlington",
+      "present": true
+    },
+    {
+      "name": "Corpus Christi",
+      "present": true
+    },
+    {
+      "name": "Plano",
+      "present": true
+    },
+    {
+      "name": "Laredo",
+      "present": true
+    },
+    {
+      "name": "Lubbock",
+      "present": true
+    },
+    {
+      "name": "Garland",
+      "present": true
+    },
+    {
+      "name": "Irving",
+      "present": true
+    },
+    {
+      "name": "Amarillo",
+      "present": true
+    },
+    {
+      "name": "Grand Prairie",
+      "present": true
+    },
+    {
+      "name": "Brownsville",
+      "present": true
+    },
+    {
+      "name": "Pasadena",
+      "present": true
+    },
+    {
+      "name": "McKinney",
+      "present": true
+    },
+    {
+      "name": "Mesquite",
+      "present": true
+    },
+    {
+      "name": "McAllen",
+      "present": true
+    },
+    {
+      "name": "Killeen",
+      "present": true
+    },
+    {
+      "name": "Frisco",
+      "present": true
+    },
+    {
+      "name": "Waco",
+      "present": true
+    },
+    {
+      "name": "Carrollton",
+      "present": true
+    },
+    {
+      "name": "Denton",
+      "present": true
+    },
+    {
+      "name": "Midland",
+      "present": true
+    },
+    {
+      "name": "Abilene",
+      "present": true
+    },
+    {
+      "name": "Beaumont",
+      "present": true
+    },
+    {
+      "name": "Round Rock",
+      "present": true
+    },
+    {
+      "name": "Odessa",
+      "present": true
+    },
+    {
+      "name": "Wichita Falls",
+      "present": true
+    },
+    {
+      "name": "Richardson",
+      "present": true
+    },
+    {
+      "name": "Lewisville",
+      "present": true
+    },
+    {
+      "name": "Tyler",
+      "present": true
+    },
+    {
+      "name": "College Station",
+      "present": true
+    },
+    {
+      "name": "Pearland",
+      "present": true
+    },
+    {
+      "name": "San Angelo",
+      "present": true
+    },
+    {
+      "name": "Allen",
+      "present": true
+    },
+    {
+      "name": "League City",
+      "present": true
+    },
+    {
+      "name": "Sugar Land",
+      "present": true
+    },
+    {
+      "name": "Longview",
+      "present": true
+    },
+    {
+      "name": "Edinburg",
+      "present": true
+    },
+    {
+      "name": "Mission",
+      "present": true
+    },
+    {
+      "name": "Bryan",
+      "present": true
+    },
+    {
+      "name": "Baytown",
+      "present": true
+    },
+    {
+      "name": "Pharr",
+      "present": true
+    },
+    {
+      "name": "Temple",
+      "present": true
+    },
+    {
+      "name": "Missouri City",
+      "present": true
+    },
+    {
+      "name": "Flower Mound",
+      "present": true
+    },
+    {
+      "name": "Harlingen",
+      "present": true
+    },
+    {
+      "name": "North Richland Hills",
+      "present": true
+    },
+    {
+      "name": "Victoria",
+      "present": true
+    },
+    {
+      "name": "Conroe",
+      "present": true
+    },
+    {
+      "name": "New Braunfels",
+      "present": true
+    },
+    {
+      "name": "Mansfield",
+      "present": true
+    },
+    {
+      "name": "Cedar Park",
+      "present": true
+    },
+    {
+      "name": "Rowlett",
+      "present": true
+    },
+    {
+      "name": "Port Arthur",
+      "present": true
+    },
+    {
+      "name": "Euless",
+      "present": true
+    },
+    {
+      "name": "Georgetown",
+      "present": true
+    },
+    {
+      "name": "Pflugerville",
+      "present": true
+    },
+    {
+      "name": "DeSoto",
+      "present": true
+    },
+    {
+      "name": "San Marcos",
+      "present": true
+    },
+    {
+      "name": "Grapevine",
+      "present": true
+    },
+    {
+      "name": "Bedford",
+      "present": true
+    },
+    {
+      "name": "Galveston",
+      "present": true
+    },
+    {
+      "name": "Cedar Hill",
+      "present": true
+    },
+    {
+      "name": "Texas City",
+      "present": true
+    },
+    {
+      "name": "Wylie",
+      "present": true
+    },
+    {
+      "name": "Haltom City",
+      "present": true
+    },
+    {
+      "name": "Keller",
+      "present": true
+    },
+    {
+      "name": "Coppell",
+      "present": true
+    },
+    {
+      "name": "Rockwall",
+      "present": true
+    },
+    {
+      "name": "Huntsville",
+      "present": true
+    },
+    {
+      "name": "Duncanville",
+      "present": true
+    },
+    {
+      "name": "Sherman",
+      "present": true
+    },
+    {
+      "name": "The Colony",
+      "present": true
+    },
+    {
+      "name": "Burleson",
+      "present": true
+    },
+    {
+      "name": "Hurst",
+      "present": true
+    },
+    {
+      "name": "Lancaster",
+      "present": true
+    },
+    {
+      "name": "Texarkana",
+      "present": true
+    },
+    {
+      "name": "Friendswood",
+      "present": true
+    },
+    {
+      "name": "Weslaco",
+      "present": true
+    }
+  ],
+  "Pennsylvania": [
+    {
+      "name": "Philadelphia",
+      "present": true
+    },
+    {
+      "name": "Pittsburgh",
+      "present": true
+    },
+    {
+      "name": "Allentown",
+      "present": true
+    },
+    {
+      "name": "Erie",
+      "present": true
+    },
+    {
+      "name": "Reading",
+      "present": true
+    },
+    {
+      "name": "Scranton",
+      "present": true
+    },
+    {
+      "name": "Bethlehem",
+      "present": true
+    },
+    {
+      "name": "Lancaster",
+      "present": true
+    },
+    {
+      "name": "Harrisburg",
+      "present": true
+    },
+    {
+      "name": "Altoona",
+      "present": true
+    },
+    {
+      "name": "York",
+      "present": true
+    },
+    {
+      "name": "State College",
+      "present": true
+    },
+    {
+      "name": "Wilkes-Barre",
+      "present": true
+    }
+  ],
+  "Arizona": [
+    {
+      "name": "Phoenix",
+      "present": true
+    },
+    {
+      "name": "Tucson",
+      "present": true
+    },
+    {
+      "name": "Mesa",
+      "present": true
+    },
+    {
+      "name": "Chandler",
+      "present": true
+    },
+    {
+      "name": "Glendale",
+      "present": true
+    },
+    {
+      "name": "Scottsdale",
+      "present": true
+    },
+    {
+      "name": "Gilbert",
+      "present": true
+    },
+    {
+      "name": "Tempe",
+      "present": true
+    },
+    {
+      "name": "Peoria",
+      "present": true
+    },
+    {
+      "name": "Surprise",
+      "present": true
+    },
+    {
+      "name": "Yuma",
+      "present": true
+    },
+    {
+      "name": "Avondale",
+      "present": true
+    },
+    {
+      "name": "Goodyear",
+      "present": true
+    },
+    {
+      "name": "Flagstaff",
+      "present": true
+    },
+    {
+      "name": "Buckeye",
+      "present": true
+    },
+    {
+      "name": "Lake Havasu City",
+      "present": true
+    },
+    {
+      "name": "Casa Grande",
+      "present": true
+    },
+    {
+      "name": "Sierra Vista",
+      "present": true
+    },
+    {
+      "name": "Maricopa",
+      "present": true
+    },
+    {
+      "name": "Oro Valley",
+      "present": true
+    },
+    {
+      "name": "Prescott",
+      "present": true
+    },
+    {
+      "name": "Bullhead City",
+      "present": true
+    },
+    {
+      "name": "Prescott Valley",
+      "present": true
+    },
+    {
+      "name": "Marana",
+      "present": true
+    },
+    {
+      "name": "Apache Junction",
+      "present": true
+    }
+  ],
+  "Florida": [
+    {
+      "name": "Jacksonville",
+      "present": true
+    },
+    {
+      "name": "Miami",
+      "present": true
+    },
+    {
+      "name": "Tampa",
+      "present": true
+    },
+    {
+      "name": "Orlando",
+      "present": true
+    },
+    {
+      "name": "St. Petersburg",
+      "present": true
+    },
+    {
+      "name": "Hialeah",
+      "present": true
+    },
+    {
+      "name": "Tallahassee",
+      "present": true
+    },
+    {
+      "name": "Fort Lauderdale",
+      "present": true
+    },
+    {
+      "name": "Port St. Lucie",
+      "present": true
+    },
+    {
+      "name": "Cape Coral",
+      "present": true
+    },
+    {
+      "name": "Pembroke Pines",
+      "present": true
+    },
+    {
+      "name": "Hollywood",
+      "present": true
+    },
+    {
+      "name": "Miramar",
+      "present": true
+    },
+    {
+      "name": "Gainesville",
+      "present": true
+    },
+    {
+      "name": "Coral Springs",
+      "present": true
+    },
+    {
+      "name": "Miami Gardens",
+      "present": true
+    },
+    {
+      "name": "Clearwater",
+      "present": true
+    },
+    {
+      "name": "Palm Bay",
+      "present": true
+    },
+    {
+      "name": "Pompano Beach",
+      "present": true
+    },
+    {
+      "name": "West Palm Beach",
+      "present": true
+    },
+    {
+      "name": "Lakeland",
+      "present": true
+    },
+    {
+      "name": "Davie",
+      "present": true
+    },
+    {
+      "name": "Miami Beach",
+      "present": true
+    },
+    {
+      "name": "Sunrise",
+      "present": true
+    },
+    {
+      "name": "Plantation",
+      "present": true
+    },
+    {
+      "name": "Boca Raton",
+      "present": true
+    },
+    {
+      "name": "Deltona",
+      "present": true
+    },
+    {
+      "name": "Largo",
+      "present": true
+    },
+    {
+      "name": "Deerfield Beach",
+      "present": true
+    },
+    {
+      "name": "Palm Coast",
+      "present": true
+    },
+    {
+      "name": "Melbourne",
+      "present": true
+    },
+    {
+      "name": "Boynton Beach",
+      "present": true
+    },
+    {
+      "name": "Lauderhill",
+      "present": true
+    },
+    {
+      "name": "Weston",
+      "present": true
+    },
+    {
+      "name": "Fort Myers",
+      "present": true
+    },
+    {
+      "name": "Kissimmee",
+      "present": true
+    },
+    {
+      "name": "Homestead",
+      "present": true
+    },
+    {
+      "name": "Tamarac",
+      "present": true
+    },
+    {
+      "name": "Delray Beach",
+      "present": true
+    },
+    {
+      "name": "Daytona Beach",
+      "present": true
+    },
+    {
+      "name": "North Miami",
+      "present": true
+    },
+    {
+      "name": "Wellington",
+      "present": true
+    },
+    {
+      "name": "North Port",
+      "present": true
+    },
+    {
+      "name": "Jupiter",
+      "present": true
+    },
+    {
+      "name": "Ocala",
+      "present": true
+    },
+    {
+      "name": "Port Orange",
+      "present": true
+    },
+    {
+      "name": "Margate",
+      "present": true
+    },
+    {
+      "name": "Coconut Creek",
+      "present": true
+    },
+    {
+      "name": "Sanford",
+      "present": true
+    },
+    {
+      "name": "Sarasota",
+      "present": true
+    },
+    {
+      "name": "Pensacola",
+      "present": true
+    },
+    {
+      "name": "Bradenton",
+      "present": true
+    },
+    {
+      "name": "Palm Beach Gardens",
+      "present": true
+    },
+    {
+      "name": "Pinellas Park",
+      "present": true
+    },
+    {
+      "name": "Coral Gables",
+      "present": true
+    },
+    {
+      "name": "Doral",
+      "present": true
+    },
+    {
+      "name": "Bonita Springs",
+      "present": true
+    },
+    {
+      "name": "Apopka",
+      "present": true
+    },
+    {
+      "name": "Titusville",
+      "present": true
+    },
+    {
+      "name": "North Miami Beach",
+      "present": true
+    },
+    {
+      "name": "Oakland Park",
+      "present": true
+    },
+    {
+      "name": "Fort Pierce",
+      "present": true
+    },
+    {
+      "name": "North Lauderdale",
+      "present": true
+    },
+    {
+      "name": "Cutler Bay",
+      "present": true
+    },
+    {
+      "name": "Altamonte Springs",
+      "present": true
+    },
+    {
+      "name": "St. Cloud",
+      "present": true
+    },
+    {
+      "name": "Greenacres",
+      "present": true
+    },
+    {
+      "name": "Ormond Beach",
+      "present": true
+    },
+    {
+      "name": "Ocoee",
+      "present": true
+    },
+    {
+      "name": "Hallandale Beach",
+      "present": true
+    },
+    {
+      "name": "Winter Garden",
+      "present": true
+    },
+    {
+      "name": "Aventura",
+      "present": true
+    }
+  ],
+  "Indiana": [
+    {
+      "name": "Indianapolis",
+      "present": true
+    },
+    {
+      "name": "Fort Wayne",
+      "present": true
+    },
+    {
+      "name": "Evansville",
+      "present": true
+    },
+    {
+      "name": "South Bend",
+      "present": true
+    },
+    {
+      "name": "Carmel",
+      "present": true
+    },
+    {
+      "name": "Bloomington",
+      "present": true
+    },
+    {
+      "name": "Fishers",
+      "present": true
+    },
+    {
+      "name": "Hammond",
+      "present": true
+    },
+    {
+      "name": "Gary",
+      "present": true
+    },
+    {
+      "name": "Muncie",
+      "present": true
+    },
+    {
+      "name": "Lafayette",
+      "present": true
+    },
+    {
+      "name": "Terre Haute",
+      "present": true
+    },
+    {
+      "name": "Kokomo",
+      "present": true
+    },
+    {
+      "name": "Anderson",
+      "present": true
+    },
+    {
+      "name": "Noblesville",
+      "present": true
+    },
+    {
+      "name": "Greenwood",
+      "present": true
+    },
+    {
+      "name": "Elkhart",
+      "present": true
+    },
+    {
+      "name": "Mishawaka",
+      "present": true
+    },
+    {
+      "name": "Lawrence",
+      "present": true
+    },
+    {
+      "name": "Jeffersonville",
+      "present": true
+    },
+    {
+      "name": "Columbus",
+      "present": true
+    },
+    {
+      "name": "Portage",
+      "present": true
+    }
+  ],
+  "Ohio": [
+    {
+      "name": "Columbus",
+      "present": true
+    },
+    {
+      "name": "Cleveland",
+      "present": true
+    },
+    {
+      "name": "Cincinnati",
+      "present": true
+    },
+    {
+      "name": "Toledo",
+      "present": true
+    },
+    {
+      "name": "Akron",
+      "present": true
+    },
+    {
+      "name": "Dayton",
+      "present": true
+    },
+    {
+      "name": "Parma",
+      "present": true
+    },
+    {
+      "name": "Canton",
+      "present": true
+    },
+    {
+      "name": "Youngstown",
+      "present": true
+    },
+    {
+      "name": "Lorain",
+      "present": true
+    },
+    {
+      "name": "Hamilton",
+      "present": true
+    },
+    {
+      "name": "Springfield",
+      "present": true
+    },
+    {
+      "name": "Kettering",
+      "present": true
+    },
+    {
+      "name": "Elyria",
+      "present": true
+    },
+    {
+      "name": "Lakewood",
+      "present": true
+    },
+    {
+      "name": "Cuyahoga Falls",
+      "present": true
+    },
+    {
+      "name": "Middletown",
+      "present": true
+    },
+    {
+      "name": "Euclid",
+      "present": true
+    },
+    {
+      "name": "Newark",
+      "present": true
+    },
+    {
+      "name": "Mansfield",
+      "present": true
+    },
+    {
+      "name": "Mentor",
+      "present": true
+    },
+    {
+      "name": "Beavercreek",
+      "present": true
+    },
+    {
+      "name": "Cleveland Heights",
+      "present": true
+    },
+    {
+      "name": "Strongsville",
+      "present": true
+    },
+    {
+      "name": "Dublin",
+      "present": true
+    },
+    {
+      "name": "Fairfield",
+      "present": true
+    },
+    {
+      "name": "Findlay",
+      "present": true
+    },
+    {
+      "name": "Warren",
+      "present": true
+    },
+    {
+      "name": "Lancaster",
+      "present": true
+    },
+    {
+      "name": "Lima",
+      "present": true
+    },
+    {
+      "name": "Huber Heights",
+      "present": true
+    },
+    {
+      "name": "Westerville",
+      "present": true
+    },
+    {
+      "name": "Marion",
+      "present": true
+    },
+    {
+      "name": "Grove City",
+      "present": true
+    }
+  ],
+  "North Carolina": [
+    {
+      "name": "Charlotte",
+      "present": true
+    },
+    {
+      "name": "Raleigh",
+      "present": true
+    },
+    {
+      "name": "Greensboro",
+      "present": true
+    },
+    {
+      "name": "Durham",
+      "present": true
+    },
+    {
+      "name": "Winston-Salem",
+      "present": true
+    },
+    {
+      "name": "Fayetteville",
+      "present": true
+    },
+    {
+      "name": "Cary",
+      "present": true
+    },
+    {
+      "name": "Wilmington",
+      "present": true
+    },
+    {
+      "name": "High Point",
+      "present": true
+    },
+    {
+      "name": "Greenville",
+      "present": true
+    },
+    {
+      "name": "Asheville",
+      "present": true
+    },
+    {
+      "name": "Concord",
+      "present": true
+    },
+    {
+      "name": "Gastonia",
+      "present": true
+    },
+    {
+      "name": "Jacksonville",
+      "present": true
+    },
+    {
+      "name": "Chapel Hill",
+      "present": true
+    },
+    {
+      "name": "Rocky Mount",
+      "present": true
+    },
+    {
+      "name": "Burlington",
+      "present": true
+    },
+    {
+      "name": "Wilson",
+      "present": true
+    },
+    {
+      "name": "Huntersville",
+      "present": true
+    },
+    {
+      "name": "Kannapolis",
+      "present": true
+    },
+    {
+      "name": "Apex",
+      "present": true
+    },
+    {
+      "name": "Hickory",
+      "present": true
+    },
+    {
+      "name": "Goldsboro",
+      "present": true
+    }
+  ],
+  "Michigan": [
+    {
+      "name": "Detroit",
+      "present": true
+    },
+    {
+      "name": "Grand Rapids",
+      "present": true
+    },
+    {
+      "name": "Warren",
+      "present": true
+    },
+    {
+      "name": "Sterling Heights",
+      "present": true
+    },
+    {
+      "name": "Ann Arbor",
+      "present": true
+    },
+    {
+      "name": "Lansing",
+      "present": true
+    },
+    {
+      "name": "Flint",
+      "present": true
+    },
+    {
+      "name": "Dearborn",
+      "present": true
+    },
+    {
+      "name": "Livonia",
+      "present": true
+    },
+    {
+      "name": "Westland",
+      "present": true
+    },
+    {
+      "name": "Troy",
+      "present": true
+    },
+    {
+      "name": "Farmington Hills",
+      "present": true
+    },
+    {
+      "name": "Kalamazoo",
+      "present": true
+    },
+    {
+      "name": "Wyoming",
+      "present": true
+    },
+    {
+      "name": "Southfield",
+      "present": true
+    },
+    {
+      "name": "Rochester Hills",
+      "present": true
+    },
+    {
+      "name": "Taylor",
+      "present": true
+    },
+    {
+      "name": "Pontiac",
+      "present": true
+    },
+    {
+      "name": "St. Clair Shores",
+      "present": true
+    },
+    {
+      "name": "Royal Oak",
+      "present": true
+    },
+    {
+      "name": "Novi",
+      "present": true
+    },
+    {
+      "name": "Dearborn Heights",
+      "present": true
+    },
+    {
+      "name": "Battle Creek",
+      "present": true
+    },
+    {
+      "name": "Saginaw",
+      "present": true
+    },
+    {
+      "name": "Kentwood",
+      "present": true
+    },
+    {
+      "name": "East Lansing",
+      "present": true
+    },
+    {
+      "name": "Roseville",
+      "present": true
+    },
+    {
+      "name": "Portage",
+      "present": true
+    },
+    {
+      "name": "Midland",
+      "present": true
+    },
+    {
+      "name": "Lincoln Park",
+      "present": true
+    },
+    {
+      "name": "Muskegon",
+      "present": true
+    }
+  ],
+  "Tennessee": [
+    {
+      "name": "Memphis",
+      "present": true
+    },
+    {
+      "name": "Nashville-Davidson",
+      "present": true
+    },
+    {
+      "name": "Knoxville",
+      "present": true
+    },
+    {
+      "name": "Chattanooga",
+      "present": true
+    },
+    {
+      "name": "Clarksville",
+      "present": true
+    },
+    {
+      "name": "Murfreesboro",
+      "present": true
+    },
+    {
+      "name": "Jackson",
+      "present": true
+    },
+    {
+      "name": "Franklin",
+      "present": true
+    },
+    {
+      "name": "Johnson City",
+      "present": true
+    },
+    {
+      "name": "Bartlett",
+      "present": true
+    },
+    {
+      "name": "Hendersonville",
+      "present": true
+    },
+    {
+      "name": "Kingsport",
+      "present": true
+    },
+    {
+      "name": "Collierville",
+      "present": true
+    },
+    {
+      "name": "Cleveland",
+      "present": true
+    },
+    {
+      "name": "Smyrna",
+      "present": true
+    },
+    {
+      "name": "Germantown",
+      "present": true
+    },
+    {
+      "name": "Brentwood",
+      "present": true
+    }
+  ],
+  "Massachusetts": [
+    {
+      "name": "Boston",
+      "present": true
+    },
+    {
+      "name": "Worcester",
+      "present": true
+    },
+    {
+      "name": "Springfield",
+      "present": true
+    },
+    {
+      "name": "Lowell",
+      "present": true
+    },
+    {
+      "name": "Cambridge",
+      "present": true
+    },
+    {
+      "name": "New Bedford",
+      "present": true
+    },
+    {
+      "name": "Brockton",
+      "present": true
+    },
+    {
+      "name": "Quincy",
+      "present": true
+    },
+    {
+      "name": "Lynn",
+      "present": true
+    },
+    {
+      "name": "Fall River",
+      "present": true
+    },
+    {
+      "name": "Newton",
+      "present": true
+    },
+    {
+      "name": "Lawrence",
+      "present": true
+    },
+    {
+      "name": "Somerville",
+      "present": true
+    },
+    {
+      "name": "Waltham",
+      "present": true
+    },
+    {
+      "name": "Haverhill",
+      "present": true
+    },
+    {
+      "name": "Malden",
+      "present": true
+    },
+    {
+      "name": "Medford",
+      "present": true
+    },
+    {
+      "name": "Taunton",
+      "present": true
+    },
+    {
+      "name": "Chicopee",
+      "present": true
+    },
+    {
+      "name": "Weymouth Town",
+      "present": true
+    },
+    {
+      "name": "Revere",
+      "present": true
+    },
+    {
+      "name": "Peabody",
+      "present": true
+    },
+    {
+      "name": "Methuen",
+      "present": true
+    },
+    {
+      "name": "Barnstable Town",
+      "present": true
+    },
+    {
+      "name": "Pittsfield",
+      "present": true
+    },
+    {
+      "name": "Attleboro",
+      "present": true
+    },
+    {
+      "name": "Everett",
+      "present": true
+    },
+    {
+      "name": "Salem",
+      "present": true
+    },
+    {
+      "name": "Westfield",
+      "present": true
+    },
+    {
+      "name": "Leominster",
+      "present": true
+    },
+    {
+      "name": "Fitchburg",
+      "present": true
+    },
+    {
+      "name": "Beverly",
+      "present": true
+    },
+    {
+      "name": "Holyoke",
+      "present": true
+    },
+    {
+      "name": "Marlborough",
+      "present": true
+    },
+    {
+      "name": "Woburn",
+      "present": true
+    },
+    {
+      "name": "Chelsea",
+      "present": true
+    }
+  ],
+  "Washington": [
+    {
+      "name": "Seattle",
+      "present": true
+    },
+    {
+      "name": "Spokane",
+      "present": true
+    },
+    {
+      "name": "Tacoma",
+      "present": true
+    },
+    {
+      "name": "Vancouver",
+      "present": true
+    },
+    {
+      "name": "Bellevue",
+      "present": true
+    },
+    {
+      "name": "Kent",
+      "present": true
+    },
+    {
+      "name": "Everett",
+      "present": true
+    },
+    {
+      "name": "Renton",
+      "present": true
+    },
+    {
+      "name": "Yakima",
+      "present": true
+    },
+    {
+      "name": "Federal Way",
+      "present": true
+    },
+    {
+      "name": "Spokane Valley",
+      "present": true
+    },
+    {
+      "name": "Bellingham",
+      "present": true
+    },
+    {
+      "name": "Kennewick",
+      "present": true
+    },
+    {
+      "name": "Auburn",
+      "present": true
+    },
+    {
+      "name": "Pasco",
+      "present": true
+    },
+    {
+      "name": "Marysville",
+      "present": true
+    },
+    {
+      "name": "Lakewood",
+      "present": true
+    },
+    {
+      "name": "Redmond",
+      "present": true
+    },
+    {
+      "name": "Shoreline",
+      "present": true
+    },
+    {
+      "name": "Richland",
+      "present": true
+    },
+    {
+      "name": "Kirkland",
+      "present": true
+    },
+    {
+      "name": "Burien",
+      "present": true
+    },
+    {
+      "name": "Sammamish",
+      "present": true
+    },
+    {
+      "name": "Olympia",
+      "present": true
+    },
+    {
+      "name": "Lacey",
+      "present": true
+    },
+    {
+      "name": "Edmonds",
+      "present": true
+    },
+    {
+      "name": "Bremerton",
+      "present": true
+    },
+    {
+      "name": "Puyallup",
+      "present": true
+    }
+  ],
+  "Colorado": [
+    {
+      "name": "Denver",
+      "present": true
+    },
+    {
+      "name": "Colorado Springs",
+      "present": true
+    },
+    {
+      "name": "Aurora",
+      "present": true
+    },
+    {
+      "name": "Fort Collins",
+      "present": true
+    },
+    {
+      "name": "Lakewood",
+      "present": true
+    },
+    {
+      "name": "Thornton",
+      "present": true
+    },
+    {
+      "name": "Arvada",
+      "present": true
+    },
+    {
+      "name": "Westminster",
+      "present": true
+    },
+    {
+      "name": "Pueblo",
+      "present": true
+    },
+    {
+      "name": "Centennial",
+      "present": true
+    },
+    {
+      "name": "Boulder",
+      "present": true
+    },
+    {
+      "name": "Greeley",
+      "present": true
+    },
+    {
+      "name": "Longmont",
+      "present": true
+    },
+    {
+      "name": "Loveland",
+      "present": true
+    },
+    {
+      "name": "Grand Junction",
+      "present": true
+    },
+    {
+      "name": "Broomfield",
+      "present": true
+    },
+    {
+      "name": "Castle Rock",
+      "present": true
+    },
+    {
+      "name": "Commerce City",
+      "present": true
+    },
+    {
+      "name": "Parker",
+      "present": true
+    },
+    {
+      "name": "Littleton",
+      "present": true
+    },
+    {
+      "name": "Northglenn",
+      "present": true
+    }
+  ],
+  "District of Columbia": [
+    {
+      "name": "Washington",
+      "present": true
+    }
+  ],
+  "Maryland": [
+    {
+      "name": "Baltimore",
+      "present": true
+    },
+    {
+      "name": "Frederick",
+      "present": true
+    },
+    {
+      "name": "Rockville",
+      "present": true
+    },
+    {
+      "name": "Gaithersburg",
+      "present": true
+    },
+    {
+      "name": "Bowie",
+      "present": true
+    },
+    {
+      "name": "Hagerstown",
+      "present": true
+    },
+    {
+      "name": "Annapolis",
+      "present": true
+    }
+  ],
+  "Kentucky": [
+    {
+      "name": "Louisville/Jefferson County",
+      "present": true
+    },
+    {
+      "name": "Lexington-Fayette",
+      "present": true
+    },
+    {
+      "name": "Bowling Green",
+      "present": true
+    },
+    {
+      "name": "Owensboro",
+      "present": true
+    },
+    {
+      "name": "Covington",
+      "present": true
+    }
+  ],
+  "Oregon": [
+    {
+      "name": "Portland",
+      "present": true
+    },
+    {
+      "name": "Eugene",
+      "present": true
+    },
+    {
+      "name": "Salem",
+      "present": true
+    },
+    {
+      "name": "Gresham",
+      "present": true
+    },
+    {
+      "name": "Hillsboro",
+      "present": true
+    },
+    {
+      "name": "Beaverton",
+      "present": true
+    },
+    {
+      "name": "Bend",
+      "present": true
+    },
+    {
+      "name": "Medford",
+      "present": true
+    },
+    {
+      "name": "Springfield",
+      "present": true
+    },
+    {
+      "name": "Corvallis",
+      "present": true
+    },
+    {
+      "name": "Albany",
+      "present": true
+    },
+    {
+      "name": "Tigard",
+      "present": true
+    },
+    {
+      "name": "Lake Oswego",
+      "present": true
+    },
+    {
+      "name": "Keizer",
+      "present": true
+    }
+  ],
+  "Oklahoma": [
+    {
+      "name": "Oklahoma City",
+      "present": true
+    },
+    {
+      "name": "Tulsa",
+      "present": true
+    },
+    {
+      "name": "Norman",
+      "present": true
+    },
+    {
+      "name": "Broken Arrow",
+      "present": true
+    },
+    {
+      "name": "Lawton",
+      "present": true
+    },
+    {
+      "name": "Edmond",
+      "present": true
+    },
+    {
+      "name": "Moore",
+      "present": true
+    },
+    {
+      "name": "Midwest City",
+      "present": true
+    },
+    {
+      "name": "Enid",
+      "present": true
+    },
+    {
+      "name": "Stillwater",
+      "present": true
+    },
+    {
+      "name": "Muskogee",
+      "present": true
+    }
+  ],
+  "Wisconsin": [
+    {
+      "name": "Milwaukee",
+      "present": true
+    },
+    {
+      "name": "Madison",
+      "present": true
+    },
+    {
+      "name": "Green Bay",
+      "present": true
+    },
+    {
+      "name": "Kenosha",
+      "present": true
+    },
+    {
+      "name": "Racine",
+      "present": true
+    },
+    {
+      "name": "Appleton",
+      "present": true
+    },
+    {
+      "name": "Waukesha",
+      "present": true
+    },
+    {
+      "name": "Eau Claire",
+      "present": true
+    },
+    {
+      "name": "Oshkosh",
+      "present": true
+    },
+    {
+      "name": "Janesville",
+      "present": true
+    },
+    {
+      "name": "West Allis",
+      "present": true
+    },
+    {
+      "name": "La Crosse",
+      "present": true
+    },
+    {
+      "name": "Sheboygan",
+      "present": true
+    },
+    {
+      "name": "Wauwatosa",
+      "present": true
+    },
+    {
+      "name": "Fond du Lac",
+      "present": true
+    },
+    {
+      "name": "New Berlin",
+      "present": true
+    },
+    {
+      "name": "Wausau",
+      "present": true
+    },
+    {
+      "name": "Brookfield",
+      "present": true
+    },
+    {
+      "name": "Greenfield",
+      "present": true
+    },
+    {
+      "name": "Beloit",
+      "present": true
+    }
+  ],
+  "Nevada": [
+    {
+      "name": "Las Vegas",
+      "present": true
+    },
+    {
+      "name": "Henderson",
+      "present": true
+    },
+    {
+      "name": "Reno",
+      "present": true
+    },
+    {
+      "name": "North Las Vegas",
+      "present": true
+    },
+    {
+      "name": "Sparks",
+      "present": true
+    },
+    {
+      "name": "Carson City",
+      "present": true
+    }
+  ],
+  "New Mexico": [
+    {
+      "name": "Albuquerque",
+      "present": true
+    },
+    {
+      "name": "Las Cruces",
+      "present": true
+    },
+    {
+      "name": "Rio Rancho",
+      "present": true
+    },
+    {
+      "name": "Santa Fe",
+      "present": true
+    },
+    {
+      "name": "Roswell",
+      "present": true
+    },
+    {
+      "name": "Farmington",
+      "present": true
+    },
+    {
+      "name": "Clovis",
+      "present": true
+    }
+  ],
+  "Missouri": [
+    {
+      "name": "Kansas City",
+      "present": true
+    },
+    {
+      "name": "St. Louis",
+      "present": true
+    },
+    {
+      "name": "Springfield",
+      "present": true
+    },
+    {
+      "name": "Independence",
+      "present": true
+    },
+    {
+      "name": "Columbia",
+      "present": true
+    },
+    {
+      "name": "Lee's Summit",
+      "present": true
+    },
+    {
+      "name": "O'Fallon",
+      "present": true
+    },
+    {
+      "name": "St. Joseph",
+      "present": true
+    },
+    {
+      "name": "St. Charles",
+      "present": true
+    },
+    {
+      "name": "St. Peters",
+      "present": true
+    },
+    {
+      "name": "Blue Springs",
+      "present": true
+    },
+    {
+      "name": "Florissant",
+      "present": true
+    },
+    {
+      "name": "Joplin",
+      "present": true
+    },
+    {
+      "name": "Chesterfield",
+      "present": true
+    },
+    {
+      "name": "Jefferson City",
+      "present": true
+    },
+    {
+      "name": "Cape Girardeau",
+      "present": true
+    }
+  ],
+  "Virginia": [
+    {
+      "name": "Virginia Beach",
+      "present": true
+    },
+    {
+      "name": "Norfolk",
+      "present": true
+    },
+    {
+      "name": "Chesapeake",
+      "present": true
+    },
+    {
+      "name": "Richmond",
+      "present": true
+    },
+    {
+      "name": "Newport News",
+      "present": true
+    },
+    {
+      "name": "Alexandria",
+      "present": true
+    },
+    {
+      "name": "Hampton",
+      "present": true
+    },
+    {
+      "name": "Roanoke",
+      "present": true
+    },
+    {
+      "name": "Portsmouth",
+      "present": true
+    },
+    {
+      "name": "Suffolk",
+      "present": true
+    },
+    {
+      "name": "Lynchburg",
+      "present": true
+    },
+    {
+      "name": "Harrisonburg",
+      "present": true
+    },
+    {
+      "name": "Leesburg",
+      "present": true
+    },
+    {
+      "name": "Charlottesville",
+      "present": true
+    },
+    {
+      "name": "Danville",
+      "present": true
+    },
+    {
+      "name": "Blacksburg",
+      "present": true
+    },
+    {
+      "name": "Manassas",
+      "present": true
+    }
+  ],
+  "Georgia": [
+    {
+      "name": "Atlanta",
+      "present": true
+    },
+    {
+      "name": "Columbus",
+      "present": true
+    },
+    {
+      "name": "Augusta-Richmond County",
+      "present": true
+    },
+    {
+      "name": "Savannah",
+      "present": true
+    },
+    {
+      "name": "Athens-Clarke County",
+      "present": true
+    },
+    {
+      "name": "Sandy Springs",
+      "present": true
+    },
+    {
+      "name": "Roswell",
+      "present": true
+    },
+    {
+      "name": "Macon",
+      "present": true
+    },
+    {
+      "name": "Johns Creek",
+      "present": true
+    },
+    {
+      "name": "Albany",
+      "present": true
+    },
+    {
+      "name": "Warner Robins",
+      "present": true
+    },
+    {
+      "name": "Alpharetta",
+      "present": true
+    },
+    {
+      "name": "Marietta",
+      "present": true
+    },
+    {
+      "name": "Valdosta",
+      "present": true
+    },
+    {
+      "name": "Smyrna",
+      "present": true
+    },
+    {
+      "name": "Dunwoody",
+      "present": true
+    }
+  ],
+  "Nebraska": [
+    {
+      "name": "Omaha",
+      "present": true
+    },
+    {
+      "name": "Lincoln",
+      "present": true
+    },
+    {
+      "name": "Bellevue",
+      "present": true
+    },
+    {
+      "name": "Grand Island",
+      "present": true
+    }
+  ],
+  "Minnesota": [
+    {
+      "name": "Minneapolis",
+      "present": true
+    },
+    {
+      "name": "St. Paul",
+      "present": true
+    },
+    {
+      "name": "Rochester",
+      "present": true
+    },
+    {
+      "name": "Duluth",
+      "present": true
+    },
+    {
+      "name": "Bloomington",
+      "present": true
+    },
+    {
+      "name": "Brooklyn Park",
+      "present": true
+    },
+    {
+      "name": "Plymouth",
+      "present": true
+    },
+    {
+      "name": "St. Cloud",
+      "present": true
+    },
+    {
+      "name": "Eagan",
+      "present": true
+    },
+    {
+      "name": "Woodbury",
+      "present": true
+    },
+    {
+      "name": "Maple Grove",
+      "present": true
+    },
+    {
+      "name": "Eden Prairie",
+      "present": true
+    },
+    {
+      "name": "Coon Rapids",
+      "present": true
+    },
+    {
+      "name": "Burnsville",
+      "present": true
+    },
+    {
+      "name": "Blaine",
+      "present": true
+    },
+    {
+      "name": "Lakeville",
+      "present": true
+    },
+    {
+      "name": "Minnetonka",
+      "present": true
+    },
+    {
+      "name": "Apple Valley",
+      "present": true
+    },
+    {
+      "name": "Edina",
+      "present": true
+    },
+    {
+      "name": "St. Louis Park",
+      "present": true
+    },
+    {
+      "name": "Mankato",
+      "present": true
+    },
+    {
+      "name": "Maplewood",
+      "present": true
+    },
+    {
+      "name": "Moorhead",
+      "present": true
+    },
+    {
+      "name": "Shakopee",
+      "present": true
+    }
+  ],
+  "Kansas": [
+    {
+      "name": "Wichita",
+      "present": true
+    },
+    {
+      "name": "Overland Park",
+      "present": true
+    },
+    {
+      "name": "Kansas City",
+      "present": true
+    },
+    {
+      "name": "Olathe",
+      "present": true
+    },
+    {
+      "name": "Topeka",
+      "present": true
+    },
+    {
+      "name": "Lawrence",
+      "present": true
+    },
+    {
+      "name": "Shawnee",
+      "present": true
+    },
+    {
+      "name": "Manhattan",
+      "present": true
+    },
+    {
+      "name": "Lenexa",
+      "present": true
+    },
+    {
+      "name": "Salina",
+      "present": true
+    },
+    {
+      "name": "Hutchinson",
+      "present": true
+    }
+  ],
+  "Louisiana": [
+    {
+      "name": "New Orleans",
+      "present": true
+    },
+    {
+      "name": "Baton Rouge",
+      "present": true
+    },
+    {
+      "name": "Shreveport",
+      "present": true
+    },
+    {
+      "name": "Lafayette",
+      "present": true
+    },
+    {
+      "name": "Lake Charles",
+      "present": true
+    },
+    {
+      "name": "Kenner",
+      "present": true
+    },
+    {
+      "name": "Bossier City",
+      "present": true
+    },
+    {
+      "name": "Monroe",
+      "present": true
+    },
+    {
+      "name": "Alexandria",
+      "present": true
+    }
+  ],
+  "Hawaii": [
+    {
+      "name": "Honolulu",
+      "present": true
+    }
+  ],
+  "Alaska": [
+    {
+      "name": "Anchorage",
+      "present": true
+    }
+  ],
+  "New Jersey": [
+    {
+      "name": "Newark",
+      "present": true
+    },
+    {
+      "name": "Jersey City",
+      "present": true
+    },
+    {
+      "name": "Paterson",
+      "present": true
+    },
+    {
+      "name": "Elizabeth",
+      "present": true
+    },
+    {
+      "name": "Clifton",
+      "present": true
+    },
+    {
+      "name": "Trenton",
+      "present": true
+    },
+    {
+      "name": "Camden",
+      "present": true
+    },
+    {
+      "name": "Passaic",
+      "present": true
+    },
+    {
+      "name": "Union City",
+      "present": true
+    },
+    {
+      "name": "Bayonne",
+      "present": true
+    },
+    {
+      "name": "East Orange",
+      "present": true
+    },
+    {
+      "name": "Vineland",
+      "present": true
+    },
+    {
+      "name": "New Brunswick",
+      "present": true
+    },
+    {
+      "name": "Hoboken",
+      "present": true
+    },
+    {
+      "name": "Perth Amboy",
+      "present": true
+    },
+    {
+      "name": "West New York",
+      "present": true
+    },
+    {
+      "name": "Plainfield",
+      "present": true
+    },
+    {
+      "name": "Hackensack",
+      "present": true
+    },
+    {
+      "name": "Sayreville",
+      "present": true
+    },
+    {
+      "name": "Kearny",
+      "present": true
+    },
+    {
+      "name": "Linden",
+      "present": true
+    },
+    {
+      "name": "Atlantic City",
+      "present": true
+    }
+  ],
+  "Idaho": [
+    {
+      "name": "Boise City",
+      "present": true
+    },
+    {
+      "name": "Nampa",
+      "present": true
+    },
+    {
+      "name": "Meridian",
+      "present": true
+    },
+    {
+      "name": "Idaho Falls",
+      "present": true
+    },
+    {
+      "name": "Pocatello",
+      "present": true
+    },
+    {
+      "name": "Caldwell",
+      "present": true
+    },
+    {
+      "name": "Coeur d'Alene",
+      "present": true
+    },
+    {
+      "name": "Twin Falls",
+      "present": true
+    }
+  ],
+  "Alabama": [
+    {
+      "name": "Birmingham",
+      "present": true
+    },
+    {
+      "name": "Montgomery",
+      "present": true
+    },
+    {
+      "name": "Mobile",
+      "present": true
+    },
+    {
+      "name": "Huntsville",
+      "present": true
+    },
+    {
+      "name": "Tuscaloosa",
+      "present": true
+    },
+    {
+      "name": "Hoover",
+      "present": true
+    },
+    {
+      "name": "Dothan",
+      "present": true
+    },
+    {
+      "name": "Auburn",
+      "present": true
+    },
+    {
+      "name": "Decatur",
+      "present": true
+    },
+    {
+      "name": "Madison",
+      "present": true
+    },
+    {
+      "name": "Florence",
+      "present": true
+    },
+    {
+      "name": "Gadsden",
+      "present": true
+    }
+  ],
+  "Iowa": [
+    {
+      "name": "Des Moines",
+      "present": true
+    },
+    {
+      "name": "Cedar Rapids",
+      "present": true
+    },
+    {
+      "name": "Davenport",
+      "present": true
+    },
+    {
+      "name": "Sioux City",
+      "present": true
+    },
+    {
+      "name": "Iowa City",
+      "present": true
+    },
+    {
+      "name": "Waterloo",
+      "present": true
+    },
+    {
+      "name": "Council Bluffs",
+      "present": true
+    },
+    {
+      "name": "Ames",
+      "present": true
+    },
+    {
+      "name": "West Des Moines",
+      "present": true
+    },
+    {
+      "name": "Dubuque",
+      "present": true
+    },
+    {
+      "name": "Ankeny",
+      "present": true
+    },
+    {
+      "name": "Urbandale",
+      "present": true
+    },
+    {
+      "name": "Cedar Falls",
+      "present": true
+    }
+  ],
+  "Arkansas": [
+    {
+      "name": "Little Rock",
+      "present": true
+    },
+    {
+      "name": "Fort Smith",
+      "present": true
+    },
+    {
+      "name": "Fayetteville",
+      "present": true
+    },
+    {
+      "name": "Springdale",
+      "present": true
+    },
+    {
+      "name": "Jonesboro",
+      "present": true
+    },
+    {
+      "name": "North Little Rock",
+      "present": true
+    },
+    {
+      "name": "Conway",
+      "present": true
+    },
+    {
+      "name": "Rogers",
+      "present": true
+    },
+    {
+      "name": "Pine Bluff",
+      "present": true
+    },
+    {
+      "name": "Bentonville",
+      "present": true
+    }
+  ],
+  "Utah": [
+    {
+      "name": "Salt Lake City",
+      "present": true
+    },
+    {
+      "name": "West Valley City",
+      "present": true
+    },
+    {
+      "name": "Provo",
+      "present": true
+    },
+    {
+      "name": "West Jordan",
+      "present": true
+    },
+    {
+      "name": "Orem",
+      "present": true
+    },
+    {
+      "name": "Sandy",
+      "present": true
+    },
+    {
+      "name": "Ogden",
+      "present": true
+    },
+    {
+      "name": "St. George",
+      "present": true
+    },
+    {
+      "name": "Layton",
+      "present": true
+    },
+    {
+      "name": "Taylorsville",
+      "present": true
+    },
+    {
+      "name": "South Jordan",
+      "present": true
+    },
+    {
+      "name": "Lehi",
+      "present": true
+    },
+    {
+      "name": "Logan",
+      "present": true
+    },
+    {
+      "name": "Murray",
+      "present": true
+    },
+    {
+      "name": "Draper",
+      "present": true
+    },
+    {
+      "name": "Bountiful",
+      "present": true
+    },
+    {
+      "name": "Riverton",
+      "present": true
+    },
+    {
+      "name": "Roy",
+      "present": true
+    }
+  ],
+  "Rhode Island": [
+    {
+      "name": "Providence",
+      "present": true
+    },
+    {
+      "name": "Warwick",
+      "present": true
+    },
+    {
+      "name": "Cranston",
+      "present": true
+    },
+    {
+      "name": "Pawtucket",
+      "present": true
+    },
+    {
+      "name": "East Providence",
+      "present": true
+    },
+    {
+      "name": "Woonsocket",
+      "present": true
+    }
+  ],
+  "Mississippi": [
+    {
+      "name": "Jackson",
+      "present": true
+    },
+    {
+      "name": "Gulfport",
+      "present": true
+    },
+    {
+      "name": "Southaven",
+      "present": true
+    },
+    {
+      "name": "Hattiesburg",
+      "present": true
+    },
+    {
+      "name": "Biloxi",
+      "present": true
+    },
+    {
+      "name": "Meridian",
+      "present": true
+    }
+  ],
+  "South Dakota": [
+    {
+      "name": "Sioux Falls",
+      "present": true
+    },
+    {
+      "name": "Rapid City",
+      "present": true
+    }
+  ],
+  "Connecticut": [
+    {
+      "name": "Bridgeport",
+      "present": true
+    },
+    {
+      "name": "New Haven",
+      "present": true
+    },
+    {
+      "name": "Stamford",
+      "present": true
+    },
+    {
+      "name": "Hartford",
+      "present": true
+    },
+    {
+      "name": "Waterbury",
+      "present": true
+    },
+    {
+      "name": "Norwalk",
+      "present": true
+    },
+    {
+      "name": "Danbury",
+      "present": true
+    },
+    {
+      "name": "New Britain",
+      "present": true
+    },
+    {
+      "name": "Meriden",
+      "present": true
+    },
+    {
+      "name": "Bristol",
+      "present": true
+    },
+    {
+      "name": "West Haven",
+      "present": true
+    },
+    {
+      "name": "Milford",
+      "present": true
+    },
+    {
+      "name": "Middletown",
+      "present": true
+    },
+    {
+      "name": "Norwich",
+      "present": true
+    },
+    {
+      "name": "Shelton",
+      "present": true
+    }
+  ],
+  "South Carolina": [
+    {
+      "name": "Columbia",
+      "present": true
+    },
+    {
+      "name": "Charleston",
+      "present": true
+    },
+    {
+      "name": "North Charleston",
+      "present": true
+    },
+    {
+      "name": "Mount Pleasant",
+      "present": true
+    },
+    {
+      "name": "Rock Hill",
+      "present": true
+    },
+    {
+      "name": "Greenville",
+      "present": true
+    },
+    {
+      "name": "Summerville",
+      "present": true
+    },
+    {
+      "name": "Sumter",
+      "present": true
+    },
+    {
+      "name": "Goose Creek",
+      "present": true
+    },
+    {
+      "name": "Hilton Head Island",
+      "present": true
+    },
+    {
+      "name": "Florence",
+      "present": true
+    },
+    {
+      "name": "Spartanburg",
+      "present": true
+    }
+  ],
+  "New Hampshire": [
+    {
+      "name": "Manchester",
+      "present": true
+    },
+    {
+      "name": "Nashua",
+      "present": true
+    },
+    {
+      "name": "Concord",
+      "present": true
+    }
+  ],
+  "North Dakota": [
+    {
+      "name": "Fargo",
+      "present": true
+    },
+    {
+      "name": "Bismarck",
+      "present": true
+    },
+    {
+      "name": "Grand Forks",
+      "present": true
+    },
+    {
+      "name": "Minot",
+      "present": true
+    }
+  ],
+  "Montana": [
+    {
+      "name": "Billings",
+      "present": true
+    },
+    {
+      "name": "Missoula",
+      "present": true
+    },
+    {
+      "name": "Great Falls",
+      "present": true
+    },
+    {
+      "name": "Bozeman",
+      "present": true
+    }
+  ],
+  "Delaware": [
+    {
+      "name": "Wilmington",
+      "present": true
+    },
+    {
+      "name": "Dover",
+      "present": true
+    }
+  ],
+  "Maine": [
+    {
+      "name": "Portland",
+      "present": true
+    }
+  ],
+  "Wyoming": [
+    {
+      "name": "Cheyenne",
+      "present": true
+    },
+    {
+      "name": "Casper",
+      "present": true
+    }
+  ],
+  "West Virginia": [
+    {
+      "name": "Charleston",
+      "present": true
+    },
+    {
+      "name": "Huntington",
+      "present": true
+    }
+  ],
+  "Vermont": [
+    {
+      "name": "Burlington",
+      "present": true
+    }
+  ]
+}

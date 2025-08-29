@@ -1,0 +1,38 @@
+{
+  "totalDuration": 0.45,
+  "keyframes": [
+    {
+      "id": "end",
+      "timePercent": 0,
+      "positionX": 19.400000000000002,
+      "positionY": -13.100000000000001,
+      "positionZ": 0.8,
+      "rotationX": 126,
+      "rotationY": 42,
+      "rotationZ": -91,
+      "fov": 152
+    },
+    {
+      "id": "keyframe_1753805432529",
+      "timePercent": 56.5,
+      "positionX": 19.400000000000002,
+      "positionY": -15.4,
+      "positionZ": -13.9,
+      "rotationX": -180,
+      "rotationY": 21,
+      "rotationZ": -91,
+      "fov": 116
+    },
+    {
+      "id": "start",
+      "timePercent": 100,
+      "positionX": 21.3,
+      "positionY": -25.200000000000003,
+      "positionZ": -22.200000000000003,
+      "rotationX": -99.00000000000001,
+      "rotationY": 0,
+      "rotationZ": -91,
+      "fov": 140
+    }
+  ]
+}
